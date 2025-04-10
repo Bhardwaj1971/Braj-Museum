@@ -1,4 +1,4 @@
-# Braj 360 View Museum
+# Braj 360 View Museum - by RK
 
 Braj 360 View Museum is a project that provides a virtual tour of various temples in the Braj region. The application allows users to explore detailed maps and view 360-degree panoramas of temples.
 
